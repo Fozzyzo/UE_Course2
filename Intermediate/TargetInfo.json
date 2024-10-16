@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE_Course2",
+			"Path": "..\\Source\\UE_Course2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE_Course2Editor",
+			"Path": "..\\Source\\UE_Course2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

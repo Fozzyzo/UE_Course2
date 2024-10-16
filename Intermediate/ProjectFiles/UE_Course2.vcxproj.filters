@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE_Course2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE_Course2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE_Course2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Link to Source Assets.txt" />
+    <None Include="..\..\SCK_Casual01.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE_Course2">
+      <UniqueIdentifier>{76C0B019-6226-3239-92CA-AE49E959C1B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE_Course2\UE_Course2.Build.cs">
+      <Filter>Source\UE_Course2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE_Course2\UE_Course2.cpp">
+      <Filter>Source\UE_Course2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE_Course2\UE_Course2.h">
+      <Filter>Source\UE_Course2</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE_Course2\Private">
+      <UniqueIdentifier>{7E3BB7F2-E8AE-3803-A2C9-4F3DF182EFD8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE_Course2\Private\MovingPlatform.cpp">
+      <Filter>Source\UE_Course2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UE_Course2\Public">
+      <UniqueIdentifier>{D6B9242A-D6C3-3C1E-8521-9A4465C54A7C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UE_Course2\Public\MovingPlatform.h">
+      <Filter>Source\UE_Course2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

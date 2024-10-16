@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Programming\\UE_Course2\\Source\\UE_Course2\\UE_Course2.Build.cs",
+		"C:\\Programming\\UE_Course2\\Source\\UE_Course2.Target.cs",
+		"C:\\Programming\\UE_Course2\\Source\\UE_Course2Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

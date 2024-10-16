@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Programming/UE_Course2/Content/Main.umap",
+				"C:/Programming/UE_Course2/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Programming/UE_Course2/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Programming/UE_Course2/Content/BP_MyMovingPlatform.uasset",
+				"C:/Programming/UE_Course2/Content/BP_PushingCube.uasset",
+				"C:/Programming/UE_Course2/Content/Blueprints/BP_ObstacleAssaultGameMode.uasset"
+			]
+		}
+	]
+}
